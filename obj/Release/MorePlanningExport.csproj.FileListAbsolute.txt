@@ -1,0 +1,8 @@
+E:\Game\MyGame\RimWorld\Mods\MorePlaningExport\Assemblies\MorePlanningExport.dll
+E:\Game\MyGame\RimWorld\Mods\MorePlaningExport\Assemblies\MorePlanningExport.pdb
+E:\Workspace\RIder\RImMod\MorePlanningExport\MorePlanningExport\obj\Release\MorePlanningExport.csproj.AssemblyReference.cache
+E:\Workspace\RIder\RImMod\MorePlanningExport\MorePlanningExport\obj\Release\MorePlanningExport.csproj.CoreCompileInputs.cache
+E:\Workspace\RIder\RImMod\MorePlanningExport\MorePlanningExport\obj\Release\MorePlanningExport.dll
+E:\Workspace\RIder\RImMod\MorePlanningExport\MorePlanningExport\obj\Release\MorePlanningExport.pdb
+E:\Game\Steam\steamapps\workshop\content\294100\2843374241\Assemblies\MorePlanningExport.dll
+E:\Game\Steam\steamapps\workshop\content\294100\2843374241\Assemblies\MorePlanningExport.pdb
